@@ -17,6 +17,9 @@ body {
 .vilhelmsH1 {
     font-size: 300px;
 }
+.vilhelmsP {
+    font-size: 50px;
+}
 .vilhelmsButton {
     text-decoration: none;
     background-color:#5D5C8D;
@@ -48,6 +51,9 @@ body {
 @media screen and (max-width: 900px) {
   .vilhelmsH1 {
     font-size: 100px;
+  }
+  .vilhelmsP {
+    font-size: 30px;
   }
   .vilhelmsButton {
     font-size: 35px;
