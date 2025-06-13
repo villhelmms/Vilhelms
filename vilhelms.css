@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #1A1E28;
+    color: #E8E8E8;
+    font-family: Vilhelms;
+}
+.vilhelmsDiv {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.vilhelmsH1 {
+    font-size: 300px;
+}
+.vilhelmsButton {
+    text-decoration: none;
+    background-color:#5D5C8D;
+    color: #E8E8E8;
+    font-size: 50px;
+    padding: 1vh;
+}
+.vilhelmsButton:hover {
+    background-color: #494870;
+    color: #ffffff;
+}
+.vilhelmsFooter {
+    color: #384157;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+.vilhelmsLink {
+    color: #384157;
+    text-decoration: none;
+}
+.vilhelmsLink:hover {
+    color: #565f79;
+}
+
+@media screen and (max-width: 900px) {
+  .vilhelmsH1 {
+    font-size: 100px;
+  }
+  .vilhelmsButton {
+    font-size: 35px;
+  }
+  .vilhelmsFooter {
+    font-size: 20px;
+  }
+}
+
+/* 
+MI ģenerēta krāsu palete:
+https://chat.mistral.ai/chat/88bc7c39-cfda-40f9-a65b-40e9d49ca980
+*/
