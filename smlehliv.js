@@ -7,3 +7,8 @@ console.log(`
        ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░ ░▒▓█▓▓█▓▒░   
 ░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░  ░▒▓██▓▒░    
 `);
+document.getElementById("smlehliv").addEventListener("click", function() {
+    alert("smlehliV")
+});
+console.log("smlehliv/vl.bhv.smlehliv")
+console.log("vilhelms/vl.bhv.smlehliv")

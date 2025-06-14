@@ -7,3 +7,8 @@ console.log(`
  ░▒▓█▓▓█▓▒░ ░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░
   ░▒▓██▓▒░  ░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░
             `);
+document.getElementById("vilhelms").addEventListener("click", function() {
+    alert("Vilhelms")
+});
+console.log("vilhelms.vhb.lv/vilhelms")
+console.log("vilhelms.vhb.lv/smlehliv")
