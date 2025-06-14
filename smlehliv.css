@@ -5,34 +5,30 @@
 body {
     background-color: #1A1E28;
     color: #E8E8E8;
-    font-family: Vilhelms;
+    font-family: smlehliV;
 }
-.vilhelmsDiv {
+.viDsmehliv {
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
 }
-.vilhelmsH1 {
+.Hsmlehliv {
     font-size: 300px;
 }
-.vilhelmsP {
-    font-size: 50px;
-    margin-bottom: 20px;
-}
-.vilhelmsButton {
+.nottuBsmlehliv {
     text-decoration: none;
     background-color:#5D5C8D;
     color: #E8E8E8;
     font-size: 50px;
     padding: 1vh;
 }
-.vilhelmsButton:hover {
+.nottuBsmlehliv:hover {
     background-color: #494870;
     color: #ffffff;
 }
-.vilhelmsFooter {
+.retooFsmlehliv {
     color: #384157;
     position: fixed;
     left: 0;
@@ -41,25 +37,22 @@ body {
     text-align: center;
     font-size: 30px;
 }
-.vilhelmsLink {
+.kniLsmlehliv {
     color: #384157;
     text-decoration: none;
 }
-.vilhelmsLink:hover {
+.kniLsmlehliv:hover {
     color: #565f79;
 }
 
 @media screen and (max-width: 980px) {
-  .vilhelmsH1 {
+  .Hsmlehliv {
     font-size: 100px;
   }
-  .vilhelmsP {
-    font-size: 30px;
-  }
-  .vilhelmsButton {
+  .nottuBsmlehliv {
     font-size: 35px;
   }
-  .vilhelmsFooter {
+  .retooFsmlehliv {
     font-size: 20px;
   }
 }
